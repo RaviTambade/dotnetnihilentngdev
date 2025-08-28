@@ -1,0 +1,22 @@
+
+Steps to be implemented as .net developer
+0.Create blank Solution using command 	dotnet new sln
+1.Create console application    		dotnet new console -o BankApp
+2.Create a new class Account
+3.Add Balance as state for Account Class
+4.Add Deposit and Withdraw as member function to class.
+5.Add Delegate AccountOperation  within a Project.
+6.Add underBalance event to Account Class.
+7.Write logic within Withdraw () to  tirgger event undeBalance in Account Class
+8.Add event handlers in seperate class As  AccountEventListener in the project.
+9.Test Event Driven Architecture applied using Program.cs  in Main
+
+
+D:\Ravi\TAP\TAP\dotnetnihilentngdev\Solutions\Day3\BankingSolution>dotnet new sln
+D:\Ravi\TAP\TAP\dotnetnihilentngdev\Solutions\Day3\BankingSolution>dotnet new console -o BankApp
+D:\Ravi\TAP\TAP\dotnetnihilentngdev\Solutions\Day3\BankingSolution>dotnet new classlib -o  Banking
+D:\Ravi\TAP\TAP\dotnetnihilentngdev\Solutions\Day3\BankingSolution>dotnet sln add ./BankApp/BankApp.csproj
+D:\Ravi\TAP\TAP\dotnetnihilentngdev\Solutions\Day3\BankingSolution>dotnet sln add ./Banking/Banking.csproj
+D:\Ravi\TAP\TAP\dotnetnihilentngdev\Solutions\Day3\BankingSolution\BankApp>dotnet add reference  ../Banking/Banking.csproj
+D:\Ravi\TAP\TAP\dotnetnihilentngdev\Solutions\Day3\BankingSolution>dotnet build
+D:\Ravi\TAP\TAP\dotnetnihilentngdev\Solutions\Day3\BankingSolution\BankApp>dotnet run
