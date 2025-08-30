@@ -1,6 +1,5 @@
 ## 🎙 Mentor  Opening Session .NET FullStack Development
 
-
 “Good morning everyone. My name is **Ravi Tambade**, and I’ll be your mentor for this **Full Stack .NET Core 8.0 Project Readiness Program**.
 
 Before we dive into our hands-on project training, let me just introduce myself properly.
