@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ravi\\TAP\\TAP\\dotnetnihilentngdev\\Solutions\\Day5\\ECommerceSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA847-FC2F-4FAD-A300-97EFFC55507F}|CatalogLib\\CatalogLib.csproj|d:\\ravi\\tap\\tap\\dotnetnihilentngdev\\solutions\\day5\\ecommercesolution\\cataloglib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECA847-FC2F-4FAD-A300-97EFFC55507F}|CatalogLib\\CatalogLib.csproj|solutionrelative:cataloglib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5DF3EE9-6BB6-4FF6-9EE5-68F1B54113EF}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|d:\\ravi\\tap\\tap\\dotnetnihilentngdev\\solutions\\day5\\ecommercesolution\\onlineshoppingportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5DF3EE9-6BB6-4FF6-9EE5-68F1B54113EF}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|solutionrelative:onlineshoppingportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA874654-64F9-4FDF-8C89-D44B6EB1B296}|TestApp\\TestApp.csproj|d:\\ravi\\tap\\tap\\dotnetnihilentngdev\\solutions\\day5\\ecommercesolution\\testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA874654-64F9-4FDF-8C89-D44B6EB1B296}|TestApp\\TestApp.csproj|solutionrelative:testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA874654-64F9-4FDF-8C89-D44B6EB1B296}|TestApp\\TestApp.csproj|d:\\ravi\\tap\\tap\\dotnetnihilentngdev\\solutions\\day5\\ecommercesolution\\testapp\\testapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA874654-64F9-4FDF-8C89-D44B6EB1B296}|TestApp\\TestApp.csproj|solutionrelative:testapp\\testapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\dotnetnihilentngdev\\Solutions\\Day5\\ECommerceSolution\\OnlineShoppingPortal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingPortal\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\dotnetnihilentngdev\\Solutions\\Day5\\ECommerceSolution\\OnlineShoppingPortal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OnlineShoppingPortal\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T05:13:00.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestApp",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\dotnetnihilentngdev\\Solutions\\Day5\\ECommerceSolution\\TestApp\\TestApp.csproj",
+              "RelativeDocumentMoniker": "TestApp\\TestApp.csproj",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\dotnetnihilentngdev\\Solutions\\Day5\\ECommerceSolution\\TestApp\\TestApp.csproj",
+              "RelativeToolTip": "TestApp\\TestApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-01T04:41:47.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\dotnetnihilentngdev\\Solutions\\Day5\\ECommerceSolution\\CatalogLib\\Product.cs",
+              "RelativeDocumentMoniker": "CatalogLib\\Product.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\dotnetnihilentngdev\\Solutions\\Day5\\ECommerceSolution\\CatalogLib\\Product.cs",
+              "RelativeToolTip": "CatalogLib\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T04:36:45.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\dotnetnihilentngdev\\Solutions\\Day5\\ECommerceSolution\\TestApp\\Program.cs",
+              "RelativeDocumentMoniker": "TestApp\\Program.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\dotnetnihilentngdev\\Solutions\\Day5\\ECommerceSolution\\TestApp\\Program.cs",
+              "RelativeToolTip": "TestApp\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T04:32:07.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
