@@ -147,7 +147,7 @@ dotnet run
 
 ### 🌟 Mentor Storytelling Flow
 
-So yesterday, Pallavi asked me a very practical question:
+Pallavi asked me a very practical question:
 👉 *“Sir, can we run an application directly using the **solution folder**?”*
 
 And that’s where the real understanding of **.NET solutions vs. projects** comes into the picture.
