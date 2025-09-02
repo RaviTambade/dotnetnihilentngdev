@@ -29,4 +29,34 @@ app.MapGet("/api/products", () =>
     };
 });
 
+app.MapPost("/api/products", (dynamic product) =>
+{
+    // Logic to add the product
+    // Serialization
+    //Mongo DB
+
+    return Results.Created($"/api/products/{product.Id}", product);
+});
+
+app.MapPut("/api/products/{id}", (int id, dynamic product) =>
+{
+    // Logic to update the product
+    // Serialization
+    //Mongo DB
+
+    return Results.Ok(product);
+});
+
+app.MapDelete("/api/products/{id}", (int id) =>
+{
+    // Logic to delete the product
+    // Mongo DB
+
+
+    return Results.NoContent();
+});
+
+
+
+
 app.Run();

@@ -46,21 +46,19 @@
               "RelativeToolTip": "OnlineShoppingPortal\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T05:13:00.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T05:13:00.559Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TestApp",
+              "Title": "TestApp.csproj",
               "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\dotnetnihilentngdev\\Solutions\\Day5\\ECommerceSolution\\TestApp\\TestApp.csproj",
               "RelativeDocumentMoniker": "TestApp\\TestApp.csproj",
               "ToolTip": "D:\\Ravi\\TAP\\TAP\\dotnetnihilentngdev\\Solutions\\Day5\\ECommerceSolution\\TestApp\\TestApp.csproj",
               "RelativeToolTip": "TestApp\\TestApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-01T04:41:47.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T04:41:47.442Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "TestApp\\Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAewBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T04:32:07.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T04:32:07.631Z"
             }
           ]
         }
