@@ -15,3 +15,9 @@ Pariticipants Github urls
 - https://github.com/jithendiran27/dotnet
 - https://github.com/Akshatha674/dotnet-training
 - https://github.com/shraddha718/
+- https://github.com/AshishK9677/Dotnet-Training-Nihilent
+- https://github.com/preethibtech12-lang/DotNetTraining/
+- kshitijadkulkarni/dotnet-training
+- https://github.com/kfhjkkj/EcommerceApi
+
+
