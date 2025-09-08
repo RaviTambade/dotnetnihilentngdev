@@ -8,7 +8,8 @@
 
 
 Pariticipants Github urls
-
+- https://github.com/Thenitheesh/dotnetlearning
+- https://github.com/rabatics/RPBNLDotNetTraining
 - https://github.com/Aravindkumar23
 - https://github.com/cskarthickmca-dev/NihilentDotNetTraining
 - https://github.com/ghadgetushard/dotnettraining
