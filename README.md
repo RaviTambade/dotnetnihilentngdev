@@ -7,8 +7,14 @@
 
 
 
-Pariticipants Github urls
-
+## Pariticipants Github urls
+- https://github.com/georgegit89/dotnet-training
+- https://github.com/kfhjkkj/EcommerceApi/tree/main/Day9
+- https://github.com/nitinmane-nihilent/NihilentDotNetTraining
+- https://github.com/sivathepower/dotnet-learning
+- https://github.com/arshu1988/dot-net-traning
+- https://github.com/Thenitheesh/dotnetlearning
+- https://github.com/rabatics/RPBNLDotNetTraining
 - https://github.com/Aravindkumar23
 - https://github.com/cskarthickmca-dev/NihilentDotNetTraining
 - https://github.com/ghadgetushard/dotnettraining
@@ -18,7 +24,7 @@ Pariticipants Github urls
 - https://github.com/shraddha718/
 - https://github.com/AshishK9677/Dotnet-Training-Nihilent
 - https://github.com/preethibtech12-lang/DotNetTraining/
-- kshitijadkulkarni/dotnet-training
+- https://github.com/kshitijadkulkarni/dotnet-training
 - https://github.com/kfhjkkj/EcommerceApi
 - https://github.com/sharan183/dotnetTraining/
 
