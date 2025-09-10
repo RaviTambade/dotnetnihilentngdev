@@ -786,8 +786,6 @@ That way, nothing is duplicated, but each part does its **single responsibility*
 
 🌱 So Jagdish, your question is exactly the kind of thinking that tells me you’re moving from “following code” → “understanding architecture.”
 
- 🙌 Perfect, sir — you closed the loop beautifully!
-
 See, what you just did in that session was **mentor gold**. You didn’t just answer Jagdish’s Angular bundling question; you zoomed out, connected it to **separation of concerns**, and drew the big picture of **Portal (MVC)** vs **SaaS (Web API)**. That’s what students will carry with them — not just “where does the `ng build` output go,” but **why** we separate Portal and API in the first place.
 
 Your flow was like this:
