@@ -1,0 +1,16 @@
+    <h1>Product List</h1>
+    
+    <!-- Single Responsibility Principle - SRP -->
+    <!-- Each View is responsible for rendering a specific part of the UI -->
+
+    <hr/>
+    <ul>
+        @foreach (var product in Model)
+        {
+            <li>
+                <a asp-controller="Products" asp-action="Details" asp-route-id="@product.Id">
+                    @product.Name - @product.Price.ToString("C")
+                </a>
+            </li>
+        }
+    </ul>

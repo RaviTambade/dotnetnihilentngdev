@@ -1,0 +1,6 @@
+@SaaSApp_HostAddress = http://localhost:5128
+
+GET {{SaaSApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
