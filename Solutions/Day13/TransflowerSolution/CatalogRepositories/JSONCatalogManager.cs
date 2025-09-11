@@ -16,7 +16,7 @@ public static class JSONCatalogManager
         return Path.Combine(Directory.GetCurrentDirectory(), "Data", "products.json");
     }
 
-    public static IEnumerable<Product> LoadProducts()
+    public static IEnumerable<Product>? LoadProducts()
     {
         var json = File.ReadAllText(GetJsonFilePath());
         return JsonSerializer.Deserialize<IEnumerable<Product>>(json);
