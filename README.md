@@ -8,6 +8,7 @@
 
 
 ## Pariticipants Github urls
+- https://github.com/guru-kannan/dotnet
 - https://github.com/georgegit89/dotnet-training
 - https://github.com/kfhjkkj/EcommerceApi/tree/main/Day9
 - https://github.com/nitinmane-nihilent/NihilentDotNetTraining
