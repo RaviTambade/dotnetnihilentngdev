@@ -356,7 +356,7 @@ What you just narrated is exactly the **authentication + authorization flow** th
 * **Cookies** → carry encrypted authentication ticket between client & server.
 * **Async/await** → keeps web app scalable & responsive.
 
-Perfect 👍 — you just explained the exact **evolution from synchronous → asynchronous programming in ASP.NET Core**, and how it ties into **cookie-based authentication + Program.cs configuration**. Let me connect the dots for your students step by step so they clearly see why this shift is critical:
+
 
 ## 🔁 1. Blocking (Synchronous) vs. Non-Blocking (Asynchronous)
 
