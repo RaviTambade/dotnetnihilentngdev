@@ -175,8 +175,6 @@ So before I go deeper into cookie-based authentication and role-based access, te
 
 I want to hear your thoughts before I move ahead."
 
-✨ Mentor storytelling continuation (storytelling + guiding tone):
-
 "Exactly George, you nailed it 👏 — the cookie’s *real-life use case* is authentication, identifying who the user is once they’re inside the application.
 
 🔎 Look carefully — in our **Day 16** folder, I’ve kept a small demo application ready for you. Why? Because when concepts are heavy, it’s better you see them running rather than me just writing fresh lines of code and making typos. That wastes both of our energy.
@@ -217,8 +215,6 @@ This way, the cookie becomes the **identity passport** inside our secure applica
 * Can someone tell me, what did we *return* to the client once authentication was successful?
 
 That little answer will connect directly to today’s cookie flow."
-
-🌱 Mentor Storytelling Mode 🌱
 
 "Excellent — you all are following the flow very well. Yesterday we just saw a **simple login POST**, but today we’ve taken the **big leap** — turning that login into a **real authentication mechanism** using cookies.
 
