@@ -1,7 +1,7 @@
 ### **MongoDB Database Connectivity**
 
 “Alright everyone, before we dive into today’s work, let’s rewind a little. Yesterday—Day 17—we had an interesting journey.
-
+ 
 We began with something that silently powers every web application but is often ignored by beginners: **state management**.
 
 I reminded you that the **HTTP protocol is stateless** by nature. Think of it like this—every time you meet a shopkeeper, he forgets you after the transaction unless he maintains a notebook about your purchases. In the physical world, that notebook is memory. In the virtual world, it is **cookies, sessions, and caching**.
