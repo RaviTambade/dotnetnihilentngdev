@@ -260,18 +260,17 @@ Because once schema & repositories are set, most work is CRUD + optimizations. H
 🔑 **Why lowest share for dev team?**
 Because DBAs + infra team take responsibility. Developers just consume it.
 
+Here’s the **Cloud Application Technology Weightage Pyramid**:
 
-### **Approximate Weightage Summary (out of 100%)**
+* **Frontend (Angular/React SPA)** → \~22%
+* **API / Service Layer** → \~18%
+* **Business Logic / Core Domain** → \~28%
+* **Data Access / Repositories** → \~12%
+* **Database (DBA / Data Engineering)** → \~20%
 
-| Layer                        | Weightage (%) |
-| ---------------------------- | ------------- |
-| Frontend (Angular/React SPA) | 25–30%        |
-| API / Service Layer          | 20–25%        |
-| Business Logic / Core Domain | 30–35%        |
-| Data Access / Repositories   | 15–20%        |
-| Database (DBA work)          | 10–15%        |
+This way, you can visually see that the **Core Domain / Business Logic** holds the highest importance, while frontend and database share significant but slightly lesser roles.
 
-
+ 
 ✅ **Most Important?**
 
 * **Business Logic (Core Domain)** → because that’s where the real *eCommerce uniqueness* lives.
